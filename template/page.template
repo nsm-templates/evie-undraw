@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        @inputcontent
+        @content()
 
 		@input(template/footer.content)
 
