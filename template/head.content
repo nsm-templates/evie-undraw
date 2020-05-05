@@ -3,4 +3,4 @@
 <title>Evie by unDraw</title>
 <!-- Don't forget to add your metadata here -->
 <link rel='stylesheet' href='css/style.min.css' />
-<link rel='icon' type='image/png' href='@pathtofile("site/images/favicon.ico")'>
+<link rel='icon' type='image/png' href='@pathtofile("$[output-dir]/images/favicon.ico")'>
